@@ -21,7 +21,9 @@ Required packages - pandas, numpy, scikit-learn, seaborn, matplotlib
 
 ## Results
 Here are some of the insights after our analysis
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/Kamal-Moha/Food-Sales-Predictions/blob/main/top5_pdcts.png)?raw=true)
+
+![top5_pdcts](https://user-images.githubusercontent.com/103885606/224950296-eba57624-ae1d-4f5d-9ff1-5b6d30e1f4a1.png)
+
 
 
 
