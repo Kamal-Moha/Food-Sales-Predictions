@@ -33,9 +33,27 @@ Here are some of the insights after our analysis
 ![top3_stores](https://user-images.githubusercontent.com/103885606/224953371-5f4e46a5-7ec7-42f5-8f98-5c526a12a89b.png)
 
 
+## Model Used 
+I used the Regression model to make the sales predictions.
+
+The R2 test score is 0.59
+
+## Limitations & Next Steps
+
+### Limitations
+
+**Limited feature set**: This project only used a small number of features to predict sales, which may not be sufficient for all sales scenarios. There may be other features that are more predictive of sales but were not included in this project.
+
+### Next Steps
+
+**Incorporate more data**: To improve the accuracy and applicability of the model, additional data could be collected from other regions or time periods. This could help to identify patterns and relationships that were not captured in the original dataset.
 
 ## Acknowledgments
 **Scikit-learn** for the machine learning library.
+
 **Matplotlib** and **Seaborn** for data visualization.
 
+
+## For further information
+For any additional questions, please email **Kamalmohapy@gmail.com
 
