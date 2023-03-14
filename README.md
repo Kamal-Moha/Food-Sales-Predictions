@@ -19,3 +19,9 @@ Python 3
 Google Colab
 Required packages - pandas, numpy, scikit-learn, seaborn, matplotlib
 
+## Results
+Here are some of the insights after our analysis
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/Kamal-Moha/Food-Sales-Predictions/blob/main/top5_pdcts.png)?raw=true)
+
+
+
