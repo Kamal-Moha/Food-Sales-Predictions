@@ -22,8 +22,13 @@ Required packages - pandas, numpy, scikit-learn, seaborn, matplotlib
 ## Results
 Here are some of the insights after our analysis
 
+![bx_plt](https://user-images.githubusercontent.com/103885606/224952905-bf542db3-a8cf-4535-bf36-b05771c3ec92.png)
+
+![corr](https://user-images.githubusercontent.com/103885606/224953185-50ebee15-4003-4864-8af9-c490e2792d6b.png)
+
 ![top5_pdcts](https://user-images.githubusercontent.com/103885606/224950296-eba57624-ae1d-4f5d-9ff1-5b6d30e1f4a1.png)
 
+![top3_stores](https://user-images.githubusercontent.com/103885606/224953371-5f4e46a5-7ec7-42f5-8f98-5c526a12a89b.png)
 
 
 
